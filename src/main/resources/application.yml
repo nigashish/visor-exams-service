@@ -5,7 +5,7 @@ spring:
     name: VISOR-EXAMS-SERVICE
     #visor-master-services
   datasource:
-    url: jdbc:postgresql://localhost:5432/accelerate_dev_migrate
+    url: jdbc:postgresql://localhost:5432/accelerate_migrate_dev
     username: accelerate
     password: password
     
