@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableEurekaClient
 //@EnableDiscoveryClient
-@EntityScan(basePackages = {"com.accelerate.visor.model"})
+@EntityScan(basePackages = {"com.accelerate.visor"})
 public class VisorExamsServiceApplication {
 
 	public static void main(String[] args) {
