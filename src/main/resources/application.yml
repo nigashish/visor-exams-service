@@ -2,9 +2,9 @@ server:
   port: 9193
 spring:
   application:
-    name: VISOR-EXAMS-SERVICE
+    name: visor-exams-service
   datasource:
-    url: jdbc:postgresql://localhost:5432/accelerate_migrate_dev
+    url: jdbc:postgresql://localhost:5432/accelerate_dev
     username: accelerate
     password: password
  
